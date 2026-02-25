@@ -12,3 +12,5 @@ fib n = fib (n - 1) + fib (n - 2) -- Caso recursivo: A partir da posição "n" d
 -- fib 2 = fib (1) + fib (0) -> fib 2 = 1 + 0 = 1
 -- fib 1 = 1
 -- fib 0 = 0
+
+
